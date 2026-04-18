@@ -1,0 +1,22 @@
+# FMOD
+/Assets/FMODStudioCache.asset
+/Assets/FMODStudioCache.asset.meta
+fmod.log
+fmod_editor.log
+
+# FMOD studio (In folder FMOD)
+*/**.user
+*/**.unsaved
+*/**.cache
+*/**.restore
+.cache/***
+*.cache
+
+# FMOD Studio project ignores
+Build/
+*.user
+*.lock
+.metadata/
+.cache/
+fsbcache/
+BuildRecords/
