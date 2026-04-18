@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2a61f21b-a706-42f0-87e2-97f81b942c4f}">
+		<property name="note">
+			<value>SoundSnap</value>
+		</property>
+		<property name="assetPath">
+			<value>sfx_MonsterHydra_ScreamDistant_Soundsnap410265.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>7.823479166666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{edb73f2e-a8da-4e49-896e-e4b9bf9f5e5d}</destination>
+		</relationship>
+	</object>
+</objects>
