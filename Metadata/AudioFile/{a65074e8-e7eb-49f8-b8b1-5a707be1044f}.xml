@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{a65074e8-e7eb-49f8-b8b1-5a707be1044f}">
 		<property name="assetPath">
 			<value>245918-UWmove1.wav</value>

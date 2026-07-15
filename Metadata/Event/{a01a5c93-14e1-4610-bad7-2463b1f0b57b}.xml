@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{a01a5c93-14e1-4610-bad7-2463b1f0b57b}">
 		<property name="name">
 			<value>sfx_Monster_distance</value>
@@ -8,7 +8,7 @@
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{3c056f1a-6b4e-4897-b2eb-709b90902c37}</destination>
+			<destination>{74d73474-e29f-45d6-ac8a-ca1f2b024bb1}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{55ea0ddd-0241-4e93-a0b0-b040ed004808}</destination>

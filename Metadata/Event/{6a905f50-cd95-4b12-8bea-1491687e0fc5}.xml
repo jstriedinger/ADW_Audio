@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{6a905f50-cd95-4b12-8bea-1491687e0fc5}">
 		<property name="name">
 			<value>Underwater Loop 2</value>
@@ -68,7 +68,7 @@
 	</object>
 	<object class="EventMixerMaster" id="{fcc42b43-0d89-453e-ae31-df78edd413b7}">
 		<property name="volume">
-			<value>-10</value>
+			<value>-15</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{a4e3294d-9249-45d4-93a9-47c151ed1ba4}</destination>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Workspace" id="{c3486360-b1a9-424d-b9ec-f7bee0f75ba1}">
 		<property name="builtBanksOutputDirectory">
-			<value>../../../Documents/Unity/Deepworld/Assets/_Project/_FMODBanks</value>
+			<value>../Deepworld/Assets/_Project/_FMODBanks</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{52bd7ee2-b5b4-4f91-a243-64533bca1f9a}</destination>

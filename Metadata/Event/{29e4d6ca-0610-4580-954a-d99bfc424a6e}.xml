@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{29e4d6ca-0610-4580-954a-d99bfc424a6e}">
 		<property name="name">
 			<value>TentacleLoop</value>
@@ -62,10 +62,10 @@
 			<destination>{37d948b8-90d2-4165-b49e-d5a1c254c783}</destination>
 		</relationship>
 		<relationship name="markers">
-			<destination>{a6021502-615b-402e-b24a-91135bc300ea}</destination>
-			<destination>{98b40332-f654-4801-87a3-5d8cdde56036}</destination>
 			<destination>{1352239a-1f0d-41c8-b090-1bb701bdcfdd}</destination>
 			<destination>{1e74aa77-903b-47a1-9050-d90aaf38cfb2}</destination>
+			<destination>{98b40332-f654-4801-87a3-5d8cdde56036}</destination>
+			<destination>{a6021502-615b-402e-b24a-91135bc300ea}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{a41e3890-87af-4caf-ae4b-5fa0bc19d6c3}">
@@ -99,34 +99,6 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{71baa86d-d739-44d8-b5e1-a601f70dcaa0}" />
-	<object class="LoopRegion" id="{a6021502-615b-402e-b24a-91135bc300ea}">
-		<property name="position">
-			<value>0</value>
-		</property>
-		<property name="length">
-			<value>4.5999999999999996</value>
-		</property>
-		<relationship name="timeline">
-			<destination>{32458f8f-06e3-46c0-8621-2717eead8c77}</destination>
-		</relationship>
-		<relationship name="markerTrack">
-			<destination>{ec4d524a-25b2-4081-bd3d-01b66d1ef697}</destination>
-		</relationship>
-	</object>
-	<object class="LoopRegion" id="{98b40332-f654-4801-87a3-5d8cdde56036}">
-		<property name="position">
-			<value>8.4000000000000004</value>
-		</property>
-		<property name="length">
-			<value>3.6000000000000014</value>
-		</property>
-		<relationship name="timeline">
-			<destination>{32458f8f-06e3-46c0-8621-2717eead8c77}</destination>
-		</relationship>
-		<relationship name="markerTrack">
-			<destination>{ec4d524a-25b2-4081-bd3d-01b66d1ef697}</destination>
-		</relationship>
-	</object>
 	<object class="TransitionMarker" id="{1352239a-1f0d-41c8-b090-1bb701bdcfdd}">
 		<property name="position">
 			<value>4.5999999999999988</value>
@@ -153,6 +125,34 @@
 		</relationship>
 		<relationship name="destination">
 			<destination>{a6021502-615b-402e-b24a-91135bc300ea}</destination>
+		</relationship>
+	</object>
+	<object class="LoopRegion" id="{98b40332-f654-4801-87a3-5d8cdde56036}">
+		<property name="position">
+			<value>8.4000000000000004</value>
+		</property>
+		<property name="length">
+			<value>3.6000000000000014</value>
+		</property>
+		<relationship name="timeline">
+			<destination>{32458f8f-06e3-46c0-8621-2717eead8c77}</destination>
+		</relationship>
+		<relationship name="markerTrack">
+			<destination>{ec4d524a-25b2-4081-bd3d-01b66d1ef697}</destination>
+		</relationship>
+	</object>
+	<object class="LoopRegion" id="{a6021502-615b-402e-b24a-91135bc300ea}">
+		<property name="position">
+			<value>0</value>
+		</property>
+		<property name="length">
+			<value>4.5999999999999996</value>
+		</property>
+		<relationship name="timeline">
+			<destination>{32458f8f-06e3-46c0-8621-2717eead8c77}</destination>
+		</relationship>
+		<relationship name="markerTrack">
+			<destination>{ec4d524a-25b2-4081-bd3d-01b66d1ef697}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{84a93421-d5fc-4a16-aa81-0a271db3aaa7}">

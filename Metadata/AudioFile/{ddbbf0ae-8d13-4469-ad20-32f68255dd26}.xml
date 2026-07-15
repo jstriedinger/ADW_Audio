@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{ddbbf0ae-8d13-4469-ad20-32f68255dd26}">
 		<property name="assetPath">
 			<value>sfx_play_death_eyemonster_2_Stereo Out.wav</value>

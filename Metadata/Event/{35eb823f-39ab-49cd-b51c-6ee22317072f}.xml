@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{35eb823f-39ab-49cd-b51c-6ee22317072f}">
 		<property name="name">
 			<value>sfx_GREEN_dial1</value>
@@ -8,7 +8,7 @@
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{3c056f1a-6b4e-4897-b2eb-709b90902c37}</destination>
+			<destination>{dabe1ee4-e399-4cc8-a2f8-3105a32e9847}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{d8b51a9a-329c-40a3-927f-cac138bf2c67}</destination>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{b9c63b84-c2a2-4320-9dd8-c27352046195}">
 		<property name="assetPath">
 			<value>sfx_subtleswim_1 [2023-10-22 164325].wav</value>

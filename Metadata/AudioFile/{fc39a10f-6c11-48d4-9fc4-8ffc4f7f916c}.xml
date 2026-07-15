@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{fc39a10f-6c11-48d4-9fc4-8ffc4f7f916c}">
 		<property name="assetPath">
 			<value>Friend Theme.mp3</value>

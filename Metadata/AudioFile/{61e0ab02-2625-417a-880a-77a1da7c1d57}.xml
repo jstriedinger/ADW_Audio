@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{61e0ab02-2625-417a-880a-77a1da7c1d57}">
 		<property name="assetPath">
 			<value>42252-FOLEY_FOOTSTEPS_DOUBLE_SQUISH_MUD_01.wav</value>

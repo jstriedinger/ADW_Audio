@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{638cb4b3-0444-4d65-ab8f-a6406832fd8a}">
 		<property name="name">
 			<value>sfx_Creature_callLow</value>

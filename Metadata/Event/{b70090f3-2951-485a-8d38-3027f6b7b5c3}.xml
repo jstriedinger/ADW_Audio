@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{b70090f3-2951-485a-8d38-3027f6b7b5c3}">
 		<property name="name">
 			<value>sfx_swimming_dash_1</value>
@@ -8,7 +8,7 @@
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{3c056f1a-6b4e-4897-b2eb-709b90902c37}</destination>
+			<destination>{dabe1ee4-e399-4cc8-a2f8-3105a32e9847}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{11b3dfa7-fc4c-4127-8303-5f131d193490}</destination>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{1e5c826f-902d-46c9-9d88-631636a817da}">
+		<property name="assetPath">
+			<value>Predator eating SND10471 S05.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.0473020833333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{edb73f2e-a8da-4e49-896e-e4b9bf9f5e5d}</destination>
+		</relationship>
+	</object>
+</objects>

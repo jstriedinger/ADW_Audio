@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{3816fd18-45f0-41ce-b463-934abbb7f27a}">
 		<property name="note">
 			<value>SoundSnap</value>

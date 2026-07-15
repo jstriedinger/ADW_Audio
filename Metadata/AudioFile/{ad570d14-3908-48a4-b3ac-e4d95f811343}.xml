@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{ad570d14-3908-48a4-b3ac-e4d95f811343}">
 		<property name="assetPath">
 			<value>sfx_monsteraggro_loop_3_Stereo Out.wav</value>

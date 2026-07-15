@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{96b69700-9c51-47e4-a3d7-b6826aa4c863}">
 		<property name="name">
 			<value>sfx_playerdies_1</value>
@@ -8,7 +8,7 @@
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{3c056f1a-6b4e-4897-b2eb-709b90902c37}</destination>
+			<destination>{dabe1ee4-e399-4cc8-a2f8-3105a32e9847}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{35d7e369-52e6-453e-a0ca-1f3ffb2846e3}</destination>

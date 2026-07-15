@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{ddc34a14-c9c1-44ea-982b-093253070321}">
 		<property name="assetPath">
 			<value>sfx_dash3_Stereo Out.wav</value>
