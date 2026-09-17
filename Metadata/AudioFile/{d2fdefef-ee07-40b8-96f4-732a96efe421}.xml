@@ -5,7 +5,7 @@
 			<value>Soundsnap - 370205-99S_LT_Ambience_Underwater_-Coral_Sea</value>
 		</property>
 		<property name="assetPath">
-			<value>UnderwaterAmbience.wav</value>
+			<value>ambience/UnderwaterAmbience.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

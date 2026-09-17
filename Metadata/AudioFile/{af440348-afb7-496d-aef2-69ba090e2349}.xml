@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{af440348-afb7-496d-aef2-69ba090e2349}">
 		<property name="assetPath">
-			<value>Underwater Loop.wav</value>
+			<value>ambience/Underwater Loop.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
