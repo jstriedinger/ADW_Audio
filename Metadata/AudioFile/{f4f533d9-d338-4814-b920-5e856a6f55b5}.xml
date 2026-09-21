@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{f4f533d9-d338-4814-b920-5e856a6f55b5}">
+		<property name="assetPath">
+			<value>GREEN_DIAL_4 - Trimmed.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.9728333333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{edb73f2e-a8da-4e49-896e-e4b9bf9f5e5d}</destination>
+		</relationship>
+	</object>
+</objects>

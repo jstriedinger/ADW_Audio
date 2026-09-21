@@ -90,7 +90,7 @@
 	<object class="MixerBusPanner" id="{10953844-e855-49de-ad2b-6d520f5a0015}" />
 	<object class="MultiSound" id="{e1295b1d-3fa2-480b-a47a-f89fe711e105}">
 		<property name="length">
-			<value>4.8000000000000007</value>
+			<value>4.1000000000000005</value>
 		</property>
 		<property name="playlistMode">
 			<value>1</value>
@@ -102,8 +102,8 @@
 			<destination>{6f2be42c-5290-4b0e-9c73-6dd8065efacd}</destination>
 		</relationship>
 		<relationship name="sounds">
-			<destination>{78b119b4-9b15-49cc-a8b5-595faa45cfa8}</destination>
-			<destination>{1017c47d-16f7-4200-ab68-061b46bdecad}</destination>
+			<destination>{d3aa7a8f-47de-440b-80da-b633987edf60}</destination>
+			<destination>{70600b26-1b86-474d-bc0d-d8a42de675bb}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{7b713ac7-e214-4407-a398-4b85b43ed51a}">
@@ -144,14 +144,14 @@
 			<destination>{40f24b7d-9ad4-450a-a21f-97445e466b6c}</destination>
 		</relationship>
 	</object>
-	<object class="SingleSound" id="{78b119b4-9b15-49cc-a8b5-595faa45cfa8}">
+	<object class="SingleSound" id="{d3aa7a8f-47de-440b-80da-b633987edf60}">
 		<relationship name="audioFile">
-			<destination>{1f5126e4-7201-4726-aeb6-5a3b7e18472c}</destination>
+			<destination>{5c547a17-db69-42ab-bbbf-eca48568880c}</destination>
 		</relationship>
 	</object>
-	<object class="SingleSound" id="{1017c47d-16f7-4200-ab68-061b46bdecad}">
+	<object class="SingleSound" id="{70600b26-1b86-474d-bc0d-d8a42de675bb}">
 		<relationship name="audioFile">
-			<destination>{887a0e4d-ab52-4716-86de-b3d5b798869d}</destination>
+			<destination>{f4f533d9-d338-4814-b920-5e856a6f55b5}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{d16da969-e28a-4a54-8742-346ad2b50005}">
@@ -193,7 +193,7 @@
 	</object>
 	<object class="AutomationPoint" id="{08d031d0-d1e6-4116-86b4-039ba679ed76}">
 		<property name="position">
-			<value>4.1000000000000005</value>
+			<value>3.4000000000000004</value>
 		</property>
 		<property name="value">
 			<value>1</value>
@@ -204,7 +204,7 @@
 	</object>
 	<object class="AutomationPoint" id="{40f24b7d-9ad4-450a-a21f-97445e466b6c}">
 		<property name="position">
-			<value>4.8000000000000007</value>
+			<value>4.1000000000000005</value>
 		</property>
 		<property name="value">
 			<value>0</value>
