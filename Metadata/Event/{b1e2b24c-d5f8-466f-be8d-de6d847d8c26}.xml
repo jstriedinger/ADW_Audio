@@ -5,7 +5,7 @@
 			<value>sfx_Blue_Call</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{dabe1ee4-e399-4cc8-a2f8-3105a32e9847}</destination>
@@ -56,7 +56,11 @@
 			<destination>{d82ae685-c8a1-466b-90f1-fff400fee719}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{33709e22-dd7e-45d2-a193-0c20a90e359f}" />
+	<object class="EventAutomatableProperties" id="{33709e22-dd7e-45d2-a193-0c20a90e359f}">
+		<property name="maximumDistance">
+			<value>8200</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{8bd391b5-29df-403c-a4c9-f3b4c3f8212f}" />
 	<object class="GroupTrack" id="{3afd4b20-3faf-4107-9ec4-607e135004ed}">
 		<relationship name="modules">
@@ -124,6 +128,7 @@
 		<relationship name="effects">
 			<destination>{0049f45a-8959-4824-8fa4-4069519d046b}</destination>
 			<destination>{66cfec39-3ac8-4a52-b9fd-3abd1343ebf9}</destination>
+			<destination>{ad7834e4-6108-4e8e-890b-dad583f4e21a}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{c11687fc-876e-40d6-b98c-7f06009fe12d}" />
@@ -170,6 +175,26 @@
 		</property>
 		<property name="wetLevel">
 			<value>-9.5</value>
+		</property>
+	</object>
+	<object class="SpatialiserEffect" id="{ad7834e4-6108-4e8e-890b-dad583f4e21a}">
+		<property name="bypass">
+			<value>true</value>
+		</property>
+		<property name="minimumDistance">
+			<value>35</value>
+		</property>
+		<property name="maximumDistance">
+			<value>500</value>
+		</property>
+		<property name="extentMode">
+			<value>1</value>
+		</property>
+		<property name="soundSize">
+			<value>50</value>
+		</property>
+		<property name="minimumExtent">
+			<value>180</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{1f1bc296-97f4-43de-a40a-a197e209adf8}">
