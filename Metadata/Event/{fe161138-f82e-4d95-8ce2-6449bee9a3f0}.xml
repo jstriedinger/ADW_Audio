@@ -79,7 +79,10 @@
 	</object>
 	<object class="SingleSound" id="{9944e95e-3509-4066-bdc5-c5fdb44d7289}">
 		<property name="length">
-			<value>0.35993197278911565</value>
+			<value>0.26493197278911557</value>
+		</property>
+		<property name="timelockedOffset">
+			<value>0.095000000000000001</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{414382c3-2d18-4cb1-89da-304efb450064}</destination>
