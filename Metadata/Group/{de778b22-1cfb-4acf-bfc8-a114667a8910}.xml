@@ -4,6 +4,9 @@
 		<property name="name">
 			<value>Music</value>
 		</property>
+		<relationship name="masters">
+			<destination>{af9217c4-f7db-40a9-9739-a11fe262288a}</destination>
+		</relationship>
 		<relationship name="effectChain">
 			<destination>{7de9a20f-ea0d-4ea5-9416-06dc9d567526}</destination>
 		</relationship>
@@ -11,14 +14,20 @@
 			<destination>{aa607866-78bf-4dd2-bd7b-11371cf5fe9d}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{d398c989-470c-41de-a541-c80b91aac70f}</destination>
+			<destination>{f1812cf6-8ec9-4b9e-bfc2-e742b47299f7}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{7de9a20f-ea0d-4ea5-9416-06dc9d567526}">
 		<relationship name="effects">
 			<destination>{65cb0646-456f-4f62-87de-b7284726199d}</destination>
+			<destination>{71d3adae-95e0-40d9-9d76-c8341d51d98f}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{aa607866-78bf-4dd2-bd7b-11371cf5fe9d}" />
 	<object class="MixerBusFader" id="{65cb0646-456f-4f62-87de-b7284726199d}" />
+	<object class="MultibandEqEffect" id="{71d3adae-95e0-40d9-9d76-c8341d51d98f}">
+		<property name="frequencyA">
+			<value>22000</value>
+		</property>
+	</object>
 </objects>
