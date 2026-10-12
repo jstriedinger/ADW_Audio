@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{35f142ce-04a5-48e1-8f3d-a160d231a809}">
+		<property name="assetPath">
+			<value>Vocals/sfx_Monster_aggro_v2 - Vocal1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.69999999999999996</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{edb73f2e-a8da-4e49-896e-e4b9bf9f5e5d}</destination>
+		</relationship>
+	</object>
+</objects>
