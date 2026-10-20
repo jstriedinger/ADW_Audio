@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{671c2205-d5c5-4ac3-b79c-2ceabfba9a43}">
 		<property name="assetPath">
-			<value>Friend Theme - Trimmed - Trimmed.wav</value>
+			<value>Music/Friend Theme - Trimmed - Trimmed.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
